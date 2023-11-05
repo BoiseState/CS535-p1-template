@@ -4,17 +4,19 @@ Grade:   /100
 Comments:
 
 Testing:
-	-Submission layout (5 points):
-		-The repository only contains required files
-		-The  repository does not contain unecessary files, such as .class files, input and output
-		folders
+	-Submission layout:
+		-The repository contains all the required files:
+		-The  repository does not contain unecessary files, 
+		 such as .class files, input and output folders:
 	-Functional Requirements:
 		-Improvements in the index:
-			-Frequency count provided with file name (45 points):
-			-List of files is sorted by highest frequency count to the lowest (20 points):
-			-Files are sorted by name when frequency counts are equal (10 points):
+			-Frequency count provided with file name:
+			-List of files is sorted by highest frequency count to the lowest:
+			-Files are sorted by name when frequency counts are equal:
 
-Design & documentation (20 points):
+Design & documentation (30 points):
 	-README.md file (20 points):
-		-Are results provided in the README.md file as specified in the project description? (10 points)
-	-Code organization & style:
+		-Are results provided as specified in the project description? (10 points):
+	-Code organization & style (10 points):
+		-The code is documented professionally:
+		-The code is readable without unreasonable effort:
